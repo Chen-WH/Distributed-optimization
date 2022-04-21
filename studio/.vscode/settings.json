@@ -1,0 +1,19 @@
+{
+    "ros.distro": "melodic",
+    "python.autoComplete.extraPaths": [
+        "/home/chenwh/openai_ws/devel/lib/python2.7/dist-packages",
+        "/home/chenwh/turtlebot3_ws/devel/lib/python2.7/dist-packages",
+        "/home/chenwh/exp_ws/devel/lib/python2.7/dist-packages",
+        "/home/chenwh/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/home/chenwh/mavros_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/chenwh/openai_ws/devel/lib/python2.7/dist-packages",
+        "/home/chenwh/turtlebot3_ws/devel/lib/python2.7/dist-packages",
+        "/home/chenwh/exp_ws/devel/lib/python2.7/dist-packages",
+        "/home/chenwh/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/home/chenwh/mavros_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}

@@ -1,0 +1,13 @@
+material fu{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture fu.jpg
+                scale 1 1
+            }
+        }   
+    }
+}

@@ -1,0 +1,37 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/chenwh/openai_ws/devel/include/**",
+        "/home/chenwh/turtlebot3_ws/devel/include/**",
+        "/home/chenwh/exp_ws/devel/include/**",
+        "/home/chenwh/catkin_ws/devel/include/**",
+        "/home/chenwh/mavros_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/opt/intel/oneapi/tbb/latest/include/**",
+        "/opt/intel/oneapi/dal/2021.2.0/include/**",
+        "/home/chenwh/turtlebot3_ws/src/DynamixelSDK/ros/dynamixel_sdk/include/**",
+        "/home/chenwh/turtlebot3_ws/src/gazebo_swarm_robot_tb3/include/**",
+        "/home/chenwh/mavros_ws/src/mavros/libmavconn/include/**",
+        "/home/chenwh/mavros_ws/src/mavros/mavros/include/**",
+        "/home/chenwh/mavros_ws/src/mavros/mavros_msgs/include/**",
+        "/home/chenwh/catkin_ws/src/my_turtlebot2_training/include/**",
+        "/home/chenwh/catkin_ws/src/studio/include/**",
+        "/home/chenwh/catkin_ws/src/swarm/include/**",
+        "/home/chenwh/mavros_ws/src/mavros/test_mavros/include/**",
+        "/home/chenwh/turtlebot3_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
